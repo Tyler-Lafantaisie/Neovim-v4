@@ -10,6 +10,7 @@ vim.opt.smartindent = true
 --other settings
 vim.opt.termguicolors = true
 vim.g.mapleader = " "
+vim.enable_default_keybindings = true
 
 -- plugin manager 
 require("config.lazy")
