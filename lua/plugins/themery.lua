@@ -3,7 +3,8 @@ return {
     lazy = false,
     config = function()
       require("themery").setup({
-        themes = {"catppuccin", "nightfly","tokyonight-moon","tokyonight-night","tokyonight-storm"}  
-    })
+            themes = {"gruvbox","catppuccin", "tokyonight-storm","nightfox","sonokai"},
+            livePreview = true,
+      })
     end
   }

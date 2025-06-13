@@ -4,4 +4,3 @@ return{
     config = true,
     opts = {},
 }
-
