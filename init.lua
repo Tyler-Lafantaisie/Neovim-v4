@@ -12,5 +12,6 @@ vim.opt.termguicolors = true
 vim.g.mapleader = " "
 vim.enable_default_keybindings = true
 
--- plugin manager 
+-- plugin manager
+require("keymaps.tabs")
 require("config.lazy")

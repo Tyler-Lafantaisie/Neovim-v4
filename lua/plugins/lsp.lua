@@ -17,7 +17,7 @@ return {
     {
         "mason-org/mason-lspconfig.nvim",
         opts = {
-            ensure_installed = { "pyright", "lua_ls", "rust_analyzer", "ast_grep", "basedpyright", "harper_ls", "bashls", "cssls", "html", "clangd", "biome", "jdtls", "ts_ls" },
+           ensure_installed = { "pyright", "lua_ls", "rust_analyzer", "ast_grep", "basedpyright", "harper_ls", "bashls", "cssls", "html", "clangd", "biome", "jdtls", "ts_ls"},
         }
     },
     {

@@ -86,9 +86,9 @@ return {
 
                 formatting = {
                     format = lspkind.cmp_format({
-                        mode = "symobol_text",
+                        mode = "symbol_text",
                         maxwidth = 50,
-                        elipsis_char = "...",
+                        ellipsis_char = "...",
                     }),
                 },
             })
